@@ -1322,6 +1322,69 @@
 				<string>#7aa2f7</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>scope</key>
+			<string>rainbow.indent.0</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FF5D7150</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>rainbow.indent.1</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FF6D5B50</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>rainbow.indent.2</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#DBC08A50</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>rainbow.indent.3</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1ABC9C50</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>rainbow.indent.4</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#71C3E350</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>rainbow.indent.5</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#50B4DC50</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>rainbow.indent.6</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#6189bb50</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>06f855e3-9fb7-4fb1-b790-aef06065f34e</string>
